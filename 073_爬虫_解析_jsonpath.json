@@ -1,0 +1,23 @@
+{
+  "store": {
+    "book": [
+      {
+        "category": "修真",
+        "author": "六道",
+        "title": "坏蛋是怎样连成的",
+        "price": 8.95
+      },
+      {
+        "category": "修真",
+        "author": "天蚕土豆",
+        "title": "斗破苍穹",
+        "price": 12.99
+      }
+    ],
+    "bicycle": {
+      "author": "李",
+      "color": "黑色",
+      "price": 12.99
+    }
+  }
+}
